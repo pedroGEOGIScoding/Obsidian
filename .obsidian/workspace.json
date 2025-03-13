@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "127229471aac4ea9",
+        "id": "2474c58b0288f06d",
         "type": "tabs",
         "children": [
           {
-            "id": "71a93efbfaee65cf",
+            "id": "f06c9b2e31a771ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "WebApp Course Notes 2025/Class Notes/Various/Git notes and main commands.md",
-                "mode": "source",
-                "source": false
+                "aFile": "WebApp Course Notes 2025/Class Notes/Backend/JPA Queries Notes.md",
+                "bFile": "WebApp Course Notes 2025/Class Notes/Backend/JPA Queries Notes.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Git notes and main commands"
+              "icon": "diff",
+              "title": "Diff: JPA Queries Notes"
             }
           }
         ]
@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,13 +231,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "71a93efbfaee65cf",
+  "active": "f06c9b2e31a771ac",
   "lastOpenFiles": [
     "WebApp Course Notes 2025/Class Notes/Backend/JPA Queries Notes.md",
-    "WebApp Course Notes 2025/Class Notes/Various/Git notes and main commands.md",
-    "WebApp Course Notes 2025/resources/images/CascadeOperations.png",
     "().md",
     "WebApp Course Notes 2025/Class Notes/Backend/Spring Boot Main Notes.md",
+    "WebApp Course Notes 2025/Class Notes/Various/Git notes and main commands.md",
+    "WebApp Course Notes 2025/resources/images/CascadeOperations.png",
     "WebApp Course Notes 2025/resources/images/Architecture.jpg",
     "WebApp Course Notes 2025/Class Notes/Various/TALENT AREA #SKILLS HUB.md",
     "WebApp Course Notes 2025/Class Notes/Various/Miscellaneous Notes.md",
