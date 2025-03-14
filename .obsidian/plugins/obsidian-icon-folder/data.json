@@ -34,77 +34,77 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "WebApp Course Notes 2025/Class Notes/Backend": {
+  "CourseNotes2025/Class Notes/Backend": {
     "iconName": "SiSpring",
     "iconColor": "#00c800"
   },
-  "WebApp Course Notes 2025/Class Notes/Backend/Spring Boot Main Notes.md": {
+  "CourseNotes2025/Class Notes/Frontend": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "CourseNotes2025/Class Notes/Backend/JPA (Java Persistence API) Relationships.md": {
     "iconName": "SiSpring",
     "iconColor": "#00c800"
   },
-  "WebApp Course Notes 2025/Class Notes/Frontend": {
+  "CourseNotes2025/Class Notes/Backend/Spring Boot Main Notes.md": {
+    "iconName": "SiSpring",
+    "iconColor": "#00c800"
+  },
+  "CourseNotes2025/Class Notes/Frontend/REACT Axios Basic Notes.md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   },
-  "WebApp Course Notes 2025/Class Notes/Frontend/REACT Axios Basic Notes.md": {
+  "CourseNotes2025/Class Notes/Frontend/REACT Hook useContext.md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   },
-  "WebApp Course Notes 2025/Class Notes/Frontend/REACT Hook useContext.md": {
+  "CourseNotes2025/Class Notes/Frontend/REACT Hook useEffect.md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   },
-  "WebApp Course Notes 2025/Class Notes/Frontend/REACT Hook useEffect.md": {
+  "CourseNotes2025/Class Notes/Frontend/REACT Hook useMemo.md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   },
-  "WebApp Course Notes 2025/Class Notes/Frontend/REACT Hook useMemo.md": {
+  "CourseNotes2025/Class Notes/Frontend/REACT Hook useRef.md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   },
-  "WebApp Course Notes 2025/Class Notes/Frontend/REACT Hook useRef.md": {
+  "CourseNotes2025/Class Notes/Frontend/REACT Hooks useState & useReducer.md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   },
-  "WebApp Course Notes 2025/Class Notes/Frontend/REACT Hooks useState & useReducer.md": {
+  "CourseNotes2025/Class Notes/Frontend/REACT Main Topics.md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   },
-  "WebApp Course Notes 2025/Class Notes/Frontend/REACT Main Topics.md": {
+  "CourseNotes2025/Class Notes/Frontend/REACT React's render cycle.md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   },
-  "WebApp Course Notes 2025/Class Notes/Frontend/REACT React-Leaflet.md": {
+  "CourseNotes2025/Class Notes/Frontend/REACT React-Leaflet.md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   },
-  "WebApp Course Notes 2025/Class Notes/Frontend/REACT React-Router-DOM.md": {
+  "CourseNotes2025/Class Notes/Frontend/REACT React-Router-DOM.md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   },
-  "WebApp Course Notes 2025/Class Notes/Frontend/REACT React's render cycle.md": {
+  "CourseNotes2025/Class Notes/Frontend/REACT Render Virtual DOM.md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   },
-  "WebApp Course Notes 2025/Class Notes/Frontend/REACT Render Virtual DOM.md": {
+  "CourseNotes2025/Class Notes/Frontend/REACT starting a new project from scracth.md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   },
-  "WebApp Course Notes 2025/Class Notes/Frontend/REACT starting a new project from scracth.md": {
-    "iconName": "SiReact",
-    "iconColor": "#00c8fa"
-  },
-  "WebApp Course Notes 2025/Class Notes/Various/Git notes and main commands.md": "SiGithub",
-  "WebApp Course Notes 2025/Class Notes/Various/Miscellaneous Notes.md": {
+  "CourseNotes2025/Class Notes/Various/Git notes and main commands.md": "SiGithub",
+  "CourseNotes2025/Class Notes/Various/Miscellaneous Notes.md": {
     "iconName": "TiNotes",
     "iconColor": "#f00a96"
   },
-  "WebApp Course Notes 2025/Class Notes/Various/TALENT AREA #SKILLS HUB.md": {
+  "CourseNotes2025/Class Notes/Various/TALENT AREA #SKILLS HUB.md": {
     "iconName": "TiVip",
     "iconColor": "#ff0000"
-  },
-  "WebApp Course Notes 2025/Class Notes/Backend/JPA (Java Persistence API) Relationships.md": {
-    "iconName": "SiSpring",
-    "iconColor": "#00c800"
   }
 }

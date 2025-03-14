@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebApp Course Notes 2025/Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
+                "file": "CourseNotes2025/Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
                 "mode": "source",
                 "source": false
               },
@@ -231,29 +231,29 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "cb417c8a406d50a8",
+  "active": "a61767e5fbe79a37",
   "lastOpenFiles": [
-    "WebApp Course Notes 2025/resources/images/Architecture.jpg",
-    "WebApp Course Notes 2025/Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
-    "WebApp Course Notes 2025/resources/images/JPAonetomany.png",
-    "WebApp Course Notes 2025/Class Notes/Various/Git notes and main commands.md",
+    "CourseNotes2025/resources/images/Architecture.jpg",
+    "CourseNotes2025/Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
+    "CourseNotes2025/resources/images/JPAonetomany.png",
+    "CourseNotes2025/Class Notes/Various/Git notes and main commands.md",
     "().md",
-    "WebApp Course Notes 2025/Class Notes/Backend/Spring Boot Main Notes.md",
-    "WebApp Course Notes 2025/resources/images/CascadeOperations.png",
-    "WebApp Course Notes 2025/Class Notes/Various/TALENT AREA #SKILLS HUB.md",
-    "WebApp Course Notes 2025/Class Notes/Various/Miscellaneous Notes.md",
-    "WebApp Course Notes 2025/Class Notes/Frontend/REACT Axios Basic Notes.md",
-    "WebApp Course Notes 2025/Practicas/Frontend/PRA#03-React.md",
-    "WebApp Course Notes 2025/Class Notes/Frontend/REACT starting a new project from scracth.md",
-    "WebApp Course Notes 2025/Class Notes/Frontend/REACT Render Virtual DOM.md",
-    "WebApp Course Notes 2025/Class Notes/Frontend/REACT React's render cycle.md",
-    "WebApp Course Notes 2025/Class Notes/Frontend/REACT React-Router-DOM.md",
-    "WebApp Course Notes 2025/Class Notes/Frontend/REACT React-Leaflet.md",
-    "WebApp Course Notes 2025/Class Notes/Frontend/REACT Main Topics.md",
-    "WebApp Course Notes 2025/Class Notes/Frontend/REACT Hooks useState & useReducer.md",
-    "WebApp Course Notes 2025/Class Notes/Frontend/REACT Hook useRef.md",
-    "WebApp Course Notes 2025/Class Notes/Frontend/REACT Hook useMemo.md",
-    "WebApp Course Notes 2025/Class Notes/Frontend/REACT Hook useEffect.md",
-    "WebApp Course Notes 2025/Class Notes/Frontend/REACT Hook useContext.md"
+    "CourseNotes2025/Class Notes/Backend/Spring Boot Main Notes.md",
+    "CourseNotes2025/resources/images/CascadeOperations.png",
+    "CourseNotes2025/Class Notes/Various/TALENT AREA #SKILLS HUB.md",
+    "CourseNotes2025/Class Notes/Various/Miscellaneous Notes.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT Axios Basic Notes.md",
+    "CourseNotes2025/Practicas/Frontend/PRA#03-React.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT starting a new project from scracth.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT Render Virtual DOM.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT React's render cycle.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT React-Router-DOM.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT React-Leaflet.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT Main Topics.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT Hooks useState & useReducer.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT Hook useRef.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT Hook useMemo.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT Hook useEffect.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT Hook useContext.md"
   ]
 }

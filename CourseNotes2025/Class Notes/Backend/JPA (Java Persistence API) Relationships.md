@@ -1,6 +1,6 @@
 Go to here for official docs:
 [Official docs for Spring Boot JPA queries](https://docs.spring.io/spring-data/jpa/reference/jpa.html)
-![Sketch of the front and backend of one app architecture](Architecture.jpg)
+![Sketch of the front and backend of one app architecture](CourseNotes2025/resources/images/Architecture.jpg)
 ## Bidirectional Relationships
  [Official Oracle docs](https://docs.oracle.com/cd/E19798-01/821-1841/bnbqi/index.html)
  
