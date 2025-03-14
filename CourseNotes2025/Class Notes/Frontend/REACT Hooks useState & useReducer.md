@@ -34,7 +34,7 @@ The useState hook takes a single argument, which is the initial state for the st
     - **state**: The current state. During the first render, it will match the initialState you have passed.
     - **setState**: The set function that lets you update the state to a different value and trigger a re-render.
     
-    ![Basic useState syntax](useState1.png)
+    ![Basic useState syntax](/CourseNotes2025/resources/images/useState1.png)
     
 ## The useReducer Hook
 
@@ -79,6 +79,6 @@ In this example, the reducer function takes in a state object and an action obje
 - If the action type is DECREMENT, the reducer decrements the count property and returns the new state.
 - If the action type is not recognized, the reducer returns the current state without making any changes
 
-![How useReducer works scheme](useReducer.png)
+![How useReducer works scheme](/CourseNotes2025/resources/images/useReducer.png)
 
-![Code flux with useReducer](useReducer2.png)
+![Code flux with useReducer](/CourseNotes2025/resources/images/useReducer2.png)

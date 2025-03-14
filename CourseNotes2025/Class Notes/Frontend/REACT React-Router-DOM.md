@@ -14,4 +14,4 @@ The Route component takes 2 parameters. The first one is the path that will be i
 
 The directory react-router-example will be created. If you cd into it, you should see a structure similar to the following:
 
-![directory react-router-example](ReactRouterDOM.png)
+![directory react-router-example](/CourseNotes2025/resources/images/ReactRouterDOM.png)

@@ -10,19 +10,19 @@ Create a folder where the project will be hosted. Next, open that folder with Vi
 
 Afterward, the react skeleton will be shown in the VSC explorer as shown below:
 
-![React folder skeleton in VSC](React_Skeleton.png)
+![React folder skeleton in VSC](/CourseNotes2025/resources/images/ReactSkeleton.png)
 
 Next, npm should be installed **but** within the project folder, so that it will be need to go with the terminal one more folder below as shown in the picture below:
 
-![Installation of Vite and npm shown in the terminal](Install%20Vite%20and%20npm%20within%20the%20project%20folder.png)
+![Installation of Vite and npm shown in the terminal](/CourseNotes2025/resources/images/InstallViteandnpmwithinprojectfolder.png)
 
 After the npm installation, the folder structure has changed with two new files: node-modules and package-lock.json whih have been created by npm.
 
-![Node-modules and package-lock.json created](Folder%20Structure%20after%20installing%20npm.png)
+![Node-modules and package-lock.json created](/CourseNotes2025/resources/images/FolderStructureafterinstallingnpm.png)
 
 Finally, run the command npm run dev to check that the installation of the react app has been correct.
 
-![React working](React%20working.png)
+![React working](/CourseNotes2025/resources/images/ReactWorking.png)
 
 By clicking in the link of the localhost:5173 the browser will show the icons of react and vite indicating that the installation process has been cone correctly.
 
@@ -30,9 +30,9 @@ Next, install the react-router-dom [[REACT Render Virtual DOM]] with the command
 
 Finally, axios should be installed as well. Then, run the command *npm install axios*.
 
-![Installing axios](installing%20axios.png)
+![Installing axios](/CourseNotes2025/resources/images/installingAxios.png)
 
 At the end, looking at on the file *package.json* all the dependencies installed in the project.
 
-![Package.json dependencies](package%20json%20dependencies.png)
+![Package.json dependencies](/CourseNotes2025/resources/images/packagejsonDependencies.png)
 

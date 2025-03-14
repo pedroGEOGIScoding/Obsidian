@@ -12,7 +12,7 @@ Vite is the tool to build up the skeleton of the web apps https://start.spring.i
 
 Postman Mock server publica los datos y genera un endpoit
 
-![Postman start web page](Postman1.png)
+![Postman start web page](/CourseNotes2025/resources/images/Postman1.png)
 
 It is important to install npm within the pronunciationAppFront (or any app). The **npm -v** command shows the npm version installed in the app and also check if the npm package is installed. The **npm -i** is used to install the app npm. Later on, run the command npm **run dev** to execute the app [[REACT starting a new project from scracth]].
 

@@ -1,6 +1,6 @@
 Go to here for official docs:
 [Official docs for Spring Boot JPA queries](https://docs.spring.io/spring-data/jpa/reference/jpa.html)
-![Sketch of the front and backend of one app architecture](CourseNotes2025/resources/images/Architecture.jpg)
+![Sketch of the front and backend of one app architecture](/CourseNotes2025/resources/images/Architecture.jpg)
 ## Bidirectional Relationships
  [Official Oracle docs](https://docs.oracle.com/cd/E19798-01/821-1841/bnbqi/index.html)
  
@@ -20,7 +20,7 @@ Multiplicities are of the following types: one-to-one, one-to-many, many-to-one,
 - **One-to-one**: Each entity instance is related to a single instance of another entity. For example, to model a physical warehouse in which each storage bin contains a single widget, StorageBin and Widget would have a one-to-one relationship. One-to-one relationships use the javax.persistence.OneToOne annotation on the corresponding persistent property or field.
 
 - **One-to-many/Many-to-One**: An entity instance can be related to multiple instances of the other entity. An author, for example, can have multiple books, whereas a book only have one author.  Then, the JPA relationship from author's table to book's table is an **One-To-Many** with the annotation on the corresponding persistent property or field. On the other hand, the JPA relationship from Book table to Author table is a **Many-to-One** because multiple instances (or records, e.g. books) of an entity can be related to a single instance of the other entity (only one author has written a book).
-![Example of One to Many JPA relationship](JPAonetomany.png)
+![Example of One to Many JPA relationship](/CourseNotes2025/resources/images/JPAonetomany.png)
 - **Many-to-many**: The entity instances can be related to multiple instances of each other. For example, each college course has many students, and every student may take several courses. Therefore, in an enrollment application, Course and Student would have a many-to-many relationship. Many-to-many relationships use the javax.persistence.ManyToMany annotation on the corresponding persistent property or field.## Bidirectional vs. Unidirectional queries
 ## Fetch Types
 [https://thorben-janssen.com/entity-mappings-introduction-jpa-fetchtypes/]()
@@ -36,4 +36,4 @@ You can prevent this with FetchType.**LAZY**. It tells Hibernate to delay the in
 
 Entities that use relationships often have dependencies on the existence of the other entity in the relationship. For example, a line item is part of an order; if the order is deleted, the line item also should be deleted. This is called a cascade delete relationship.
 
-![List of the different cascade operation taken from the Oracle official docs](CascadeOperations.png)
+![List of the different cascade operation taken from the Oracle official docs](/CourseNotes2025/resources/images/CascadeOperations.png)
