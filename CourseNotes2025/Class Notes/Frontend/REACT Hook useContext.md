@@ -1,6 +1,6 @@
 The useContext is a React Hook that lets you read and subscribe to context from your component. In other words, this hook allows you to share states among components.
 
-![Basic useContext syntax](CourseNotes2025/resources/images/useContext1.png)
+![Basic useContext syntax](/CourseNotes2025/resources/images/useContext1.png)
 ```jsx
 const value = useContext(SomeContext)
 ```
