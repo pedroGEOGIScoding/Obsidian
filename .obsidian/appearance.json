@@ -2,5 +2,8 @@
   "accentColor": "#5cb2f5",
   "nativeMenus": true,
   "baseFontSizeAction": true,
-  "baseFontSize": 13
+  "baseFontSize": 13,
+  "enabledCssSnippets": [
+    "imageCaption"
+  ]
 }

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2474c58b0288f06d",
+        "id": "4b538c8955afe0bb",
         "type": "tabs",
         "children": [
           {
-            "id": "f06c9b2e31a771ac",
+            "id": "cb417c8a406d50a8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "WebApp Course Notes 2025/Class Notes/Backend/JPA Queries Notes.md",
-                "bFile": "WebApp Course Notes 2025/Class Notes/Backend/JPA Queries Notes.md",
-                "aRef": ""
+                "file": "WebApp Course Notes 2025/Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: JPA Queries Notes"
+              "icon": "lucide-file",
+              "title": "JPA (Java Persistence API) Relationships"
             }
           }
         ]
@@ -231,14 +231,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f06c9b2e31a771ac",
+  "active": "cb417c8a406d50a8",
   "lastOpenFiles": [
-    "WebApp Course Notes 2025/Class Notes/Backend/JPA Queries Notes.md",
+    "WebApp Course Notes 2025/resources/images/Architecture.jpg",
+    "WebApp Course Notes 2025/Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
+    "WebApp Course Notes 2025/resources/images/JPAonetomany.png",
+    "WebApp Course Notes 2025/Class Notes/Various/Git notes and main commands.md",
     "().md",
     "WebApp Course Notes 2025/Class Notes/Backend/Spring Boot Main Notes.md",
-    "WebApp Course Notes 2025/Class Notes/Various/Git notes and main commands.md",
     "WebApp Course Notes 2025/resources/images/CascadeOperations.png",
-    "WebApp Course Notes 2025/resources/images/Architecture.jpg",
     "WebApp Course Notes 2025/Class Notes/Various/TALENT AREA #SKILLS HUB.md",
     "WebApp Course Notes 2025/Class Notes/Various/Miscellaneous Notes.md",
     "WebApp Course Notes 2025/Class Notes/Frontend/REACT Axios Basic Notes.md",
