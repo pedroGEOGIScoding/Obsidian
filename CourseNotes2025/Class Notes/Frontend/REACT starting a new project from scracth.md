@@ -6,9 +6,9 @@ The first thing is to go to <https://vite.dev/guide/> to create a react project 
 npm create vite@latest my-vue-app -- --template react
 ```
 
-Create a folder where the project will be hosted. Next, open that folder with Visual Studio Code. In the VSC terminal, paste the above command and run it to create the react project scaffoldings. This command should be copied and the words _my-vue-app_ changed with the name of the project to work on. Before running this command, the package **create-vite@6.3.0** should be installed. If not, the terminal will ask you to install itself for you.
+Create a folder where the project will be hosted. Next, open that folder with Visual Studio Code. In the VSC terminal, paste the above command and run it to create the react project scaffolding. This command should be copied and the words _my-vue-app_ changed with the name of the project to work on. Before running this command, the package **create-vite@6.3.0** should be installed. If not, the terminal will ask you to install itself for you.
 
-Afterward, the react skeleton will be shown in the VSC explorer as shown below:
+Afterwards, the react skeleton will be shown in the VSC explorer as shown below:
 
 ![React folder skeleton in VSC](/CourseNotes2025/resources/images/ReactSkeleton.png)
 

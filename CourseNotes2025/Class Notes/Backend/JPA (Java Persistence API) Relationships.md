@@ -17,11 +17,20 @@ In a unidirectional relationship, only one entity has a relationship field or pr
 
 Multiplicities are of the following types: one-to-one, one-to-many, many-to-one, and many-to-many:
 
-- **One-to-one**: Each entity instance is related to a single instance of another entity. For example, to model a physical warehouse in which each storage bin contains a single widget, StorageBin and Widget would have a one-to-one relationship. One-to-one relationships use the javax.persistence.OneToOne annotation on the corresponding persistent property or field.
+- **One-to-one**: Each entity instance is related to a single instance of another entity. For example, to model a physical warehouse in which each storage bin contains a single widget, StorageBin and Widget would have a one-to-one relationship. One-to-one relationships use the javax.persistence. OneToOne annotation on the corresponding persistent property or field.
 
-- **One-to-many/Many-to-One**: An entity instance can be related to multiple instances of the other entity. An author, for example, can have multiple books, whereas a book only have one author.  Then, the JPA relationship from author's table to book's table is an **One-To-Many** with the annotation on the corresponding persistent property or field. On the other hand, the JPA relationship from Book table to Author table is a **Many-to-One** because multiple instances (or records, e.g. books) of an entity can be related to a single instance of the other entity (only one author has written a book).
-![Example of One to Many JPA relationship](/CourseNotes2025/resources/images/JPAonetomany.png)
-- **Many-to-many**: The entity instances can be related to multiple instances of each other. For example, each college course has many students, and every student may take several courses. Therefore, in an enrollment application, Course and Student would have a many-to-many relationship. Many-to-many relationships use the javax.persistence.ManyToMany annotation on the corresponding persistent property or field.## Bidirectional vs. Unidirectional queries
+- **One-to-Many**: An entity instance can be related to multiple instances of the other entity. An author, for example, can have multiple books, whereas a book only have one author.  Then, the JPA relationship from author's table to book's table is an **One-To-Many** with the annotation on the corresponding persistent property or field. Then, the One entity (author) has a collection of another entity (Books) and only <u>the owning side (the <font color="#ff0000">One</font> side)</u> has a reference to the other entity
+
+- **Many-to-One**: On the other hand, the JPA relationship from Book table to Author table is a **Many-to-One** because multiple instances (or records, e.g. books) of an entity can be related to a single instance of the other entity (only one author has written a book). Many entities are associated with one entity and only <u>the owing side (the <font color="#ff0000">Many</font> side)</u> has a reference to the other entity.![Example of One to Many JPA relationship](/CourseNotes2025/resources/images/JPAonetomany.png)![One to Many coding](/CourseNotes2025/resources/images/OnetoMany2.png)In the image above, the **mappedBy** is written in the @OneToMany left side (Author as only **One** author to **Many** books) specifies the field that **owns** the relationship in the child entity . In this case, Author entity owns the relationship and has a collection of the another entity (List<Book> books). In the **Many** side, the relationship should be **@ManyToOne** (in other words, Book's table To Author's table) and is here where to insert the **@JoinColumn**.
+
+- **Many-to-many**: The Many to Many relationship could be unidirectional and bidirectional. In the bidirectional, the multiple instances of one entity can be related to multiple instances of another one. For example, each course has many students, and every student may take several courses. Therefore, in an enrolment application, Course and Student would have a many-to-many relationship. The ManyToMany annotation is done on the corresponding persistent property or field. In bidirectional ManyToMany relationships, use mappedBy on the non-owning side to indicate the owning side’s field name. The @JoinTable annotation is used to specify the join table details.
+
+![Example of Many to Many](/CourseNotes2025/resources/images/ManyToMany.png)
+
+![Many to Many coding in detail](/CourseNotes2025/resources/images/ManyToMany2.png)
+
+![Menus and Orders example](/CourseNotes2025/resources/images/ManyToMany3.png)
+
 ## Fetch Types
 [https://thorben-janssen.com/entity-mappings-introduction-jpa-fetchtypes/]()
 This is one of the most important decisions when defining your entity mapping. You can choose between EAGER and LAZY loading. The first one fetches an association immediately, and the other only when you use it. I explain both options in this article.
@@ -30,8 +39,20 @@ This default depends on the cardinality of the association. All to-one associati
 
 FetchType.**EAGER** tells Hibernate to get the associated entities with the initial query. This can look very efficient because it fetches all entities with only one query. But in most cases, it creates a huge overhead because Hibernate fetches these entities even if your business code doesn’t use them.
 
-You can prevent this with FetchType.**LAZY**. It tells Hibernate to delay the initialization of the association until you access it in your business code.
+You can prevent this with FetchType.**LAZY**. It tells Hibernate to delay the initialisation of the association until you access it in your business code.
 
+> [!warning] 
+> **Eager** loading fetches all related data immediately, making everything available upfront. It can be faster for frequent access but may use more memory.
+> 
+> **Lazy** loading, on the other hand, loads related data only when requested, initializing it on-demand. This approach saves memory but might cause slight delays on first access.
+
+**Key Points**
+
+- For **@OneToMany** and **@ManyToMany**, the default fetch type is **LAZY**.
+- For **@ManyToOne** and **@OneToOne**, the default fetch type is **EAGER**.
+- Using FetchType.**LAZY** is generally recommended to avoid performance issues, especially for collections.
+- The **cascade** attribute determines which operations should be cascaded from parent to child entities.
+- The **orphanRemoval** attribute is useful for ==automatically removing child entities when they are no longer referenced by the parent==.
 ## Cascade Operations and Relationships
 
 Entities that use relationships often have dependencies on the existence of the other entity in the relationship. For example, a line item is part of an order; if the order is deleted, the line item also should be deleted. This is called a cascade delete relationship.
