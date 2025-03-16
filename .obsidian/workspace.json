@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "d5e0c981ecac7ebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e89eaf15fdffe9de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccf839edfb1b1ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class Notes/Frontend/REACT starting a new project from scracth.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REACT starting a new project from scracth"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8c81c4dac24b91a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea773aa99a6eab08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a61767e5fbe79a37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a004a5b65d311cb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2357b03721ce06a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 425.5
+  },
+  "right": {
+    "id": "a4cb9f29bbdb5d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfd71168ea9f0f4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19937bff0be45957",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "42f14debec0b826a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d073dc01cdd0a9e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dbfcb1ced2f85f1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4998e96f86c471f3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "dd3ce3b98d4ee65c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0368b3583facdc89",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "69634fd3d0ebb8d1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4480cd98223d8daf",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "02d453c619f84b5b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-import-json:JSON/CSV Importer": false
+    }
+  },
+  "active": "a61767e5fbe79a37",
+  "lastOpenFiles": [
+    "Class Notes/Frontend/REACT Render Virtual DOM.md",
+    "Class Notes/Frontend/REACT React's render cycle.md",
+    "Class Notes/Frontend/REACT React-Router-DOM.md",
+    "Class Notes/Frontend/REACT React-Leaflet.md",
+    "Class Notes/Frontend/REACT Main Topics.md",
+    "Class Notes/Frontend/REACT Hooks useState & useReducer.md",
+    "Class Notes/Frontend/REACT Hook useRef.md",
+    "Class Notes/Frontend/REACT Hook useMemo.md",
+    "Class Notes/Frontend/REACT Hook useEffect.md",
+    "Class Notes/Frontend/REACT Hook useContext.md",
+    "Class Notes/Frontend/REACT starting a new project from scracth.md",
+    "Class Notes/Frontend/REACT Axios Basic Notes.md",
+    "Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
+    "Class Notes/Various/Git notes and main commands.md",
+    "Class Notes/Various/Miscellaneous Notes.md",
+    "Class Notes/Various/TALENT AREA #SKILLS HUB.md",
+    "Class Notes/Backend/Spring Boot Main Notes.md",
+    "Practicas/Frontend/PRA#03-React.md",
+    "resources/images/Architecture.jpg",
+    "resources/images/SkillHubsATS5.jpg",
+    "resources/images/SkillHubsATS1.jpg",
+    "resources/images/SkillHubsATS3.jpg",
+    "resources/images/SkillHubsATS4.jpg",
+    "resources/images/SkillHubsATS6.jpg",
+    "resources/images/SkillHubsATS2.jpg",
+    "resources/images/useEffect1.png",
+    "resources/images/useEffect2.png",
+    "resources/images/useState1.png",
+    "Class Notes/Frontend",
+    "Class Notes/Backend",
+    "Class Notes/Various",
+    "Practicas/Frontend",
+    "resources/images",
+    "Class Notes",
+    "Practicas",
+    "resources",
+    "CourseNotes2025/Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT React-Router-DOM.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT React's render cycle.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT Render Virtual DOM.md",
+    "CourseNotes2025/Class Notes/Frontend/REACT starting a new project from scracth.md",
+    "CourseNotes2025/Class Notes/Various/Git notes and main commands.md",
+    "CourseNotes2025/Class Notes/Various/Miscellaneous Notes.md"
+  ]
+}
