@@ -12,7 +12,7 @@
       "SiReact",
       "SiSpring"
     ],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIconsSize": 8,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -20,15 +20,15 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
     "iconInTitlePosition": "above",
-    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterEnabled": true,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true,
-    "iconsInLinksEnabled": true,
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": false,
+    "iconsInLinksEnabled": false,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false,
@@ -41,15 +41,6 @@
   "Class Notes/Backend/Spring Boot Main Notes.md": {
     "iconName": "SiSpring",
     "iconColor": "#00c800"
-  },
-  "Class Notes/Various/Git notes and main commands.md": "SiGithub",
-  "Class Notes/Various/Miscellaneous Notes.md": {
-    "iconName": "TiNotes",
-    "iconColor": "#ff9705"
-  },
-  "Class Notes/Various/TALENT AREA #SKILLS HUB.md": {
-    "iconName": "TiVip",
-    "iconColor": "#ff0000"
   },
   "Class Notes/Frontend/REACT Axios Basic Notes.md": {
     "iconName": "SiReact",
@@ -96,6 +87,31 @@
     "iconColor": "#00c8fa"
   },
   "Class Notes/Frontend/REACT starting a new project from scracth.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Various/Git notes and main commands.md": "SiGithub",
+  "Class Notes/Various/Miscellaneous Notes.md": {
+    "iconName": "TiNotes",
+    "iconColor": "#7800f0"
+  },
+  "Class Notes/Various/TALENT AREA #SKILLS HUB.md": {
+    "iconName": "TiVip",
+    "iconColor": "#ff0000"
+  },
+  "Class Notes/Backend/JPA Spring Boot Many-to-Many Relationship - Implementation Options.md": {
+    "iconName": "SiSpring",
+    "iconColor": "#00c800"
+  },
+  "Class Notes/Backend/Saving RAM when working.md": {
+    "iconName": "SiSpring",
+    "iconColor": "#00c800"
+  },
+  "Class Notes/Frontend/How to Use Context with an API Service.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/Cross-Origin Resource Sharing (CORS).md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   }

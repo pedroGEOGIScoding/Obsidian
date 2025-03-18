@@ -68,3 +68,16 @@ git --version
     a) Further info: [GitHub CLI](https://docs.github.com/en/github-cli/github-cli/about-github-cli).
 
 18. **git ls-files** (Show information about files in the index and the working tree). See further info to exclude certain files from git tracking.
+
+19. The git clone command clones all of the repository’s branches by downloading their data, but it only automatically creates a local branch for the main branch. The other branches are available in the repository; you can switch to them using git checkout <branch-name>, which will create a local branch that tracks the remote branch the first time you check it out. To ensure that you clone all branches and have them available locally and you need to check them out as local branches. You can manually check out each branch one at a time using: git checkout -b <branch-name> origin/<branch-name> or to automate the process and checkout all remote branches, you can use a loop in the command line:
+
+`for branch in `git branch -r | grep -v '\->'`; do git branch --track "${branch#origin/}" "$branch" done`
+
+> [!This script does the following]
+> Lists all remote branches.
+> Filters out any pointers to other branches (like origin/HEAD -> origin/main).
+> Loops through each branch and creates a local branch that tracks the remote branch.After setting up tracking for each branch, make sure your local copies are up to date:`git fetch --all`
+
+
+
+

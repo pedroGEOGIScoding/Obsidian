@@ -1,7 +1,7 @@
 {
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "showLineNumber": true,
   "showUnsupportedFiles": true,

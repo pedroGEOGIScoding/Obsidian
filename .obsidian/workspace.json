@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e89eaf15fdffe9de",
+        "id": "f35148422563d07f",
         "type": "tabs",
         "children": [
           {
-            "id": "ccf839edfb1b1ae7",
+            "id": "d54ddc47a78aebdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Notes/Frontend/REACT starting a new project from scracth.md",
+                "file": "Class Notes/Frontend/Cross-Origin Resource Sharing (CORS).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REACT starting a new project from scracth"
+              "title": "Cross-Origin Resource Sharing (CORS)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 283.5
   },
   "right": {
     "id": "a4cb9f29bbdb5d44",
@@ -192,8 +192,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -221,12 +221,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,34 +247,42 @@
   },
   "active": "a61767e5fbe79a37",
   "lastOpenFiles": [
+    "Class Notes/Backend/JPA Spring Boot Many-to-Many Relationship - Implementation Options.md",
+    "Class Notes/Frontend/Cross-Origin Resource Sharing (CORS).md",
+    "resources/images/CORS_Scheme.png",
+    "Pasted image 20250318101139.png",
+    "Class Notes/Frontend/How to Use Context with an API Service.md",
+    "resources/images/axiosContextApi.png",
+    "Class Notes/Frontend/REACT Axios Basic Notes.md",
+    "resources/Weblinks/Java Mission Control.md",
+    "resources/images/StartReactFromScratch3.png",
+    "resources/images/StartReactFromScratch2.png",
+    "resources/images/StartProjectFromScratch.png",
+    "resources/images/OneToManyBi.png",
+    "resources/images/ManyToManyJoinTableUni.png",
+    "resources/images/MantToManyJoinTableBi.png",
+    "resources/images/OneToOneBidirectional.png",
+    "Practicas/Frontend/PRA05.md",
+    "Practicas/Frontend/PRA03-React.md",
+    "Class Notes/Backend/Saving RAM when working.md",
+    "resources/Weblinks",
     "Class Notes/Frontend/REACT Render Virtual DOM.md",
+    "Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
+    "Class Notes/Backend/Spring Boot Main Notes.md",
+    "Class Notes/Frontend/REACT Hook useMemo.md",
+    "Class Notes/Various/Git notes and main commands.md",
+    "Class Notes/Frontend/REACT starting a new project from scracth.md",
     "Class Notes/Frontend/REACT React's render cycle.md",
     "Class Notes/Frontend/REACT React-Router-DOM.md",
-    "Class Notes/Frontend/REACT React-Leaflet.md",
     "Class Notes/Frontend/REACT Main Topics.md",
     "Class Notes/Frontend/REACT Hooks useState & useReducer.md",
     "Class Notes/Frontend/REACT Hook useRef.md",
-    "Class Notes/Frontend/REACT Hook useMemo.md",
     "Class Notes/Frontend/REACT Hook useEffect.md",
     "Class Notes/Frontend/REACT Hook useContext.md",
-    "Class Notes/Frontend/REACT starting a new project from scracth.md",
-    "Class Notes/Frontend/REACT Axios Basic Notes.md",
-    "Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
-    "Class Notes/Various/Git notes and main commands.md",
     "Class Notes/Various/Miscellaneous Notes.md",
     "Class Notes/Various/TALENT AREA #SKILLS HUB.md",
-    "Class Notes/Backend/Spring Boot Main Notes.md",
-    "Practicas/Frontend/PRA#03-React.md",
-    "resources/images/Architecture.jpg",
-    "resources/images/SkillHubsATS5.jpg",
-    "resources/images/SkillHubsATS1.jpg",
-    "resources/images/SkillHubsATS3.jpg",
-    "resources/images/SkillHubsATS4.jpg",
-    "resources/images/SkillHubsATS6.jpg",
-    "resources/images/SkillHubsATS2.jpg",
-    "resources/images/useEffect1.png",
-    "resources/images/useEffect2.png",
-    "resources/images/useState1.png",
+    "Class Notes/Frontend/REACT React-Leaflet.md",
+    "ldfhlkdshf.md",
     "Class Notes/Frontend",
     "Class Notes/Backend",
     "Class Notes/Various",
@@ -283,13 +290,6 @@
     "resources/images",
     "Class Notes",
     "Practicas",
-    "resources",
-    "CourseNotes2025/Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
-    "CourseNotes2025/Class Notes/Frontend/REACT React-Router-DOM.md",
-    "CourseNotes2025/Class Notes/Frontend/REACT React's render cycle.md",
-    "CourseNotes2025/Class Notes/Frontend/REACT Render Virtual DOM.md",
-    "CourseNotes2025/Class Notes/Frontend/REACT starting a new project from scracth.md",
-    "CourseNotes2025/Class Notes/Various/Git notes and main commands.md",
-    "CourseNotes2025/Class Notes/Various/Miscellaneous Notes.md"
+    "resources"
   ]
 }
