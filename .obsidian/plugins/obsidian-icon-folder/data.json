@@ -6,16 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiReact",
-      "SiSpring",
-      "🛑",
-      "LiStickyNote",
-      "LiAtom",
-      "LiLeaf",
-      "TiVip",
-      "TiNotes"
+      "SiGithub",
+      "LiActivitySquare",
+      "LiAArrowDown"
     ],
-    "recentlyUsedIconsSize": 8,
+    "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
       "top": 0,

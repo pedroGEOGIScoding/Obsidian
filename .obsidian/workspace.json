@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dhgfhgf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for dhgfhgf"
             }
           },
           {
@@ -137,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Notes/Frontend/Handlers.md",
+                "file": "dhgfhgf.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Handlers"
+              "title": "Outline of dhgfhgf"
             }
           },
           {
@@ -177,12 +178,13 @@
       "callout-manager:Insert Callout": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "2295575c73dcc1b5",
+  "active": "b3090ea1dc3d0305",
   "lastOpenFiles": [
+    "dhgfhgf.md",
+    "Untitled.md",
     "Class Notes/Various/Git notes and main commands.md",
     "Class Notes/Frontend/Axios-context-book.md",
     "Class Notes/Backend/Create jar exe (saving RAM when working).md",
@@ -220,8 +222,6 @@
     "Class Notes/Frontend/REACT Hooks useState & useReducer.md",
     "Class Notes/Various/TALENT AREA #SKILLS HUB.md",
     "Class Notes/Frontend/REACT Main Topics.md",
-    "Class Notes/Frontend/REACT Render Virtual DOM.md",
-    "Class Notes/Frontend/REACT React-Router-DOM.md",
     "Class Notes/Frontend",
     "Class Notes/Backend",
     "Class Notes/Various",

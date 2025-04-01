@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "obsidian-excalidraw-plugin",
   "dataview",
   "templater-obsidian",
@@ -11,7 +10,6 @@
   "obsidian-charts",
   "obsidian-leaflet-plugin",
   "obsidian-kanban",
-  "obsidian-markdown-formatting-assistant-plugin",
   "editing-toolbar",
   "calendar",
   "obsidian-mind-map",
