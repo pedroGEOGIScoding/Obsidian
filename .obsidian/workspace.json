@@ -11,10 +11,14 @@
             "id": "4f9068b3ad697d4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Class Notes/Various/Git notes and main commands.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Git notes and main commands"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 414.5
   },
   "right": {
     "id": "dcb4dc8a8b35cc6e",
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Notes/Frontend/Handlers.md",
+                "file": "Class Notes/Various/Git notes and main commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Handlers"
+              "title": "Backlinks for Git notes and main commands"
             }
           },
           {
@@ -153,39 +157,41 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
-      "callout-manager:Insert Callout": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-import-json:JSON/CSV Importer": false
     }
   },
   "active": "4f9068b3ad697d4b",
   "lastOpenFiles": [
+    "Class Notes/Frontend/Axios-context-book.md",
+    "Class Notes/Backend/Create jar exe (saving RAM when working).md",
+    "Class Notes/Backend/Create jar exe (saving RAM when working) 1.md",
     "Class Notes/Backend/Create *jar (saving RAM when working).md",
-    "CreatingJARinIntelliJ.png",
+    "resources/images/CreatingJARinIntelliJ.png",
     "Class Notes/Backend/Spring Boot Main Notes.md",
     "Class Notes/Various/Miscellaneous Notes.md",
     "Class Notes/Backend/JAVA Abstract classes and Interfaces.md",
@@ -220,8 +226,6 @@
     "Class Notes/Frontend/REACT Main Topics.md",
     "Class Notes/Frontend/REACT Render Virtual DOM.md",
     "Class Notes/Frontend/REACT React-Router-DOM.md",
-    "Class Notes/Frontend/REACT Hook useEffect.md",
-    "Class Notes/Frontend/REACT Hook useRef.md",
     "Class Notes/Frontend",
     "Class Notes/Backend",
     "Class Notes/Various",
