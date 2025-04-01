@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "1dabc1afb662b16d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb9c4c4937d91c26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f9068b3ad697d4b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8b80f4b998476d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c7d6061ffd90a78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3090ea1dc3d0305",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0d79b63b9de1b7e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c506b2e65fc9bda5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dcb4dc8a8b35cc6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd0d5a95eaae8186",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c676a42b8def9b59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Class Notes/Frontend/Handlers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Handlers"
+            }
+          },
+          {
+            "id": "c9260a8e2a007226",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Class Notes/Frontend/Handlers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Handlers"
+            }
+          },
+          {
+            "id": "99d5273fcb1d6f44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "55f59510d05e398e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Class Notes/Frontend/Handlers.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Handlers"
+            }
+          },
+          {
+            "id": "2146ec4ca42aae66",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4f9068b3ad697d4b",
+  "lastOpenFiles": [
+    "Class Notes/Backend/Create *jar (saving RAM when working).md",
+    "CreatingJARinIntelliJ.png",
+    "Class Notes/Backend/Spring Boot Main Notes.md",
+    "Class Notes/Various/Miscellaneous Notes.md",
+    "Class Notes/Backend/JAVA Abstract classes and Interfaces.md",
+    "Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
+    "Class Notes/Frontend/Path types in React Apps.md",
+    "resources/images/DifferencesPathTypes.png",
+    "Class Notes/Frontend/How to Use Context with an API Service.md",
+    "Class Notes/Frontend/Handlers.md",
+    "Class Notes/Frontend/REACT Hook useContext.md",
+    "resources/images/HandlerInConsole.png",
+    "Class Notes/Backend/Pagination.md",
+    "resources/images/InterfaceClassesSubclasses.png",
+    "resources/images/Pagination2.png",
+    "Clippings",
+    "resources/images/PagaKeyConcepts.png",
+    "resources/images/pagination.png",
+    "resources/reactComponents",
+    "Class Notes/Various/Git notes and main commands.md",
+    "Class Notes/Frontend/REACT Axios Basic Notes.md",
+    "Class Notes/Frontend/Cross-Origin Resource Sharing (CORS).md",
+    "resources/images/CORS_Scheme.png",
+    "resources/images/axiosContextApi.png",
+    "Class Notes/Frontend/REACT starting a new project from scracth.md",
+    "resources/images/StartReactFromScratch3.png",
+    "Practicas/Frontend/PRA03-React.md",
+    "Practicas/Frontend/PRA05.md",
+    "resources/Weblinks/Java Mission Control.md",
+    "resources/Weblinks",
+    "Class Notes/Backend/JPA Spring Boot Many-to-Many Relationship - Implementation Options.md",
+    "Class Notes/Frontend/REACT Hooks useState & useReducer.md",
+    "Class Notes/Various/TALENT AREA #SKILLS HUB.md",
+    "Class Notes/Frontend/REACT Main Topics.md",
+    "Class Notes/Frontend/REACT Render Virtual DOM.md",
+    "Class Notes/Frontend/REACT React-Router-DOM.md",
+    "Class Notes/Frontend/REACT Hook useEffect.md",
+    "Class Notes/Frontend/REACT Hook useRef.md",
+    "Class Notes/Frontend",
+    "Class Notes/Backend",
+    "Class Notes/Various",
+    "Practicas/Frontend",
+    "resources/images",
+    "Class Notes",
+    "Practicas"
+  ]
+}

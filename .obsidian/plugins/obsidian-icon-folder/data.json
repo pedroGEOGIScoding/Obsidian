@@ -1,0 +1,131 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiSpring",
+      "🛑",
+      "LiStickyNote",
+      "LiAtom",
+      "LiLeaf",
+      "TiVip",
+      "TiNotes",
+      "SiGithub"
+    ],
+    "recentlyUsedIconsSize": 8,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Class Notes/Backend/JPA (Java Persistence API) Relationships.md": {
+    "iconName": "SiSpring",
+    "iconColor": "#00c800"
+  },
+  "Class Notes/Backend/Spring Boot Main Notes.md": {
+    "iconName": "SiSpring",
+    "iconColor": "#00c800"
+  },
+  "Class Notes/Frontend/REACT Axios Basic Notes.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/REACT Hook useContext.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/REACT Hook useEffect.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/REACT Hook useMemo.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/REACT Hook useRef.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/REACT Hooks useState & useReducer.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/REACT Main Topics.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/REACT React-Leaflet.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/REACT React-Router-DOM.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/REACT React's render cycle.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/REACT Render Virtual DOM.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/REACT starting a new project from scracth.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Various/Git notes and main commands.md": "SiGithub",
+  "Class Notes/Various/Miscellaneous Notes.md": "LiStickyNote",
+  "Class Notes/Various/TALENT AREA #SKILLS HUB.md": "🛑",
+  "Class Notes/Backend/JPA Spring Boot Many-to-Many Relationship - Implementation Options.md": {
+    "iconName": "SiSpring",
+    "iconColor": "#00c800"
+  },
+  "Class Notes/Backend/Pagination.md": {
+    "iconName": "SiSpring",
+    "iconColor": "#00c800"
+  },
+  "Class Notes/Frontend/How to Use Context with an API Service.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/Cross-Origin Resource Sharing (CORS).md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/Handlers.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/Path types in React Apps.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Backend/JAVA Abstract classes and Interfaces.md": {
+    "iconName": "SiSpring",
+    "iconColor": "#00c800"
+  },
+  "Class Notes/Backend/Create *jar (saving RAM when working).md": {
+    "iconName": "SiSpring",
+    "iconColor": "#00c800"
+  }
+}
