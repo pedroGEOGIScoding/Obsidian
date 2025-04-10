@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "74674b0be1ff5e4c",
+        "id": "63683f2ac17abe87",
         "type": "tabs",
         "children": [
           {
-            "id": "2295575c73dcc1b5",
+            "id": "5b3fbccd0412369f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Practicas/PRA05 Front/userBorrowBookFront-v1.1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "userBorrowBookFront-v1.1"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 369.5
   },
   "right": {
     "id": "dcb4dc8a8b35cc6e",
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dhgfhgf.md",
+                "file": "Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dhgfhgf"
+              "title": "Outline of JPA (Java Persistence API) Relationships"
             }
           },
           {
@@ -162,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +177,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "callout-manager:Insert Callout": false,
@@ -181,53 +185,53 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "b3090ea1dc3d0305",
+  "active": "5b3fbccd0412369f",
   "lastOpenFiles": [
-    "dhgfhgf.md",
-    "Untitled.md",
-    "Class Notes/Various/Git notes and main commands.md",
+    "Practicas/PRA05 Front/userBorrowBookFront-v1.0.md",
+    "Practicas/PRA05 Front/userBorrowBookFront-v0.9.md",
+    "Practicas/PRA05 Front/userBorrowBookFront-v0.8.md",
+    "Practicas/PRA05 Front/userBorrowBookFront-v0.7.md",
+    "Practicas/PRA05 Front/userBorrowBookFront-v0.6.md",
+    "Practicas/PRA05 Front/userBorrowBookFront-v0.5.md",
+    "Practicas/PRA05 Front/userBorrowBookFront-v0.4.md",
     "Class Notes/Frontend/Axios-context-book.md",
-    "Class Notes/Backend/Create jar exe (saving RAM when working).md",
-    "Class Notes/Backend/Create jar exe (saving RAM when working) 1.md",
-    "Class Notes/Backend/Create *jar (saving RAM when working).md",
-    "resources/images/CreatingJARinIntelliJ.png",
-    "Class Notes/Backend/Spring Boot Main Notes.md",
-    "Class Notes/Various/Miscellaneous Notes.md",
-    "Class Notes/Backend/JAVA Abstract classes and Interfaces.md",
-    "Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
-    "Class Notes/Frontend/Path types in React Apps.md",
-    "resources/images/DifferencesPathTypes.png",
-    "Class Notes/Frontend/How to Use Context with an API Service.md",
     "Class Notes/Frontend/Handlers.md",
-    "Class Notes/Frontend/REACT Hook useContext.md",
-    "resources/images/HandlerInConsole.png",
+    "Practicas/PRA05 Front/useNavigate.md",
+    "Practicas/PRA03-React.md",
+    "Steps for a new Flutter.md",
+    "Practicas/PRA05 Front/userBorrowBookFront-v0.3.md",
+    "Practicas/PRA05 Front/userBorrowBookFront-v0.2.md",
+    "Practicas/PRA05 Front/userBorrowBookFront-v0.1.md",
     "Class Notes/Backend/Pagination.md",
-    "resources/images/InterfaceClassesSubclasses.png",
-    "resources/images/Pagination2.png",
+    "Practicas/PRA05 Front/userBookBorrowBack.md",
+    "Practicas/PRA05 Front/userBorrowBookFront-v1.1.md",
+    "Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
+    "Practicas/PRA05 Front/Screenshots/ClassesUML.png",
+    "Practicas/PRA05 Front/Screenshots/material-ui-navigation-drawer-2.png",
+    "Practicas/PRA05 Front/Screenshots/material-ui-navigation-drawer.png",
+    "Practicas/PRA05 Front/Screenshots/book-cover-placeholder.png",
+    "Practicas/PRA05 Front/Screenshots/2025-03-21_13-56.png",
+    "Practicas/PRA05 Front/Screenshots/2025-03-21_13-55_3.png",
+    "Practicas/PRA05 Front/Screenshots/2025-03-21_13-55_2.png",
+    "Practicas/PRA05 Front/Screenshots/2025-03-21_13-55_1.png",
+    "Practicas/PRA05 Front/Screenshots/2025-03-21_13-55.png",
+    "Practicas/PRA05 Front/Screenshots/2025-03-21_13-54.png",
+    "Practicas/PRA05 Back/Predicate at specification JPA Criteria API.md",
+    "Practicas/PRA05 Back/JPA Filter and Specification, Rest Control.md",
+    "Practicas/PRA05 Back/userBorrowBook-filter-test.md",
+    "Practicas/PRA05 Back/test-testFilterBorrows.md",
+    "Practicas/PRA05 Back/lazy-eager.md",
+    "Practicas/PRA05 Back/Screenshots",
+    "Practicas/PRA05 Back",
+    "Practicas/PRA05 Front/API AviationStack.md",
+    "Practicas/PRA05 Front/Screenshots",
+    "Practicas/PRA05 Front",
+    "Practicas/Frontend/PRA05 Front/userBorrowBookFront-v0.1.md",
+    "Practicas/Frontend/PRA05 Front/Screenshots",
+    "Practicas/Frontend/PRA05 Front",
     "Clippings",
-    "resources/images/PagaKeyConcepts.png",
-    "resources/images/pagination.png",
     "resources/reactComponents",
-    "Class Notes/Frontend/REACT Axios Basic Notes.md",
-    "Class Notes/Frontend/Cross-Origin Resource Sharing (CORS).md",
-    "resources/images/CORS_Scheme.png",
-    "resources/images/axiosContextApi.png",
-    "Class Notes/Frontend/REACT starting a new project from scracth.md",
-    "resources/images/StartReactFromScratch3.png",
-    "Practicas/Frontend/PRA03-React.md",
-    "Practicas/Frontend/PRA05.md",
-    "resources/Weblinks/Java Mission Control.md",
     "resources/Weblinks",
-    "Class Notes/Backend/JPA Spring Boot Many-to-Many Relationship - Implementation Options.md",
-    "Class Notes/Frontend/REACT Hooks useState & useReducer.md",
-    "Class Notes/Various/TALENT AREA #SKILLS HUB.md",
-    "Class Notes/Frontend/REACT Main Topics.md",
-    "Class Notes/Frontend",
-    "Class Notes/Backend",
-    "Class Notes/Various",
-    "Practicas/Frontend",
-    "resources/images",
-    "Class Notes",
-    "Practicas"
+    "Class Notes/Frontend"
   ]
 }

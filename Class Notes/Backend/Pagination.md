@@ -29,7 +29,7 @@ The `Pageable` interface in Spring Data JPA is used to provide pagination and so
 
 `Spring Data` provides powerful features for handling large result sets through `paging`, `sorting`, and `limiting`.
 
-The infrastructure recognises specific types like `Pageable`, `Sort`, and `Limit` to dynamically apply these operations to queries. Pagination can be implemented using the Page or Slice return types:
+The infrastructure recognises specific types like `Pageable`, `Sort`, and `Limit` to <font color="#00b050">dynamically apply these operations</font> to queries. Pagination can be implemented using the Page or Slice return types:
 
 - **Page** provides information about the total number of elements and pages, but requires an additional count query.
 - **Slice** is more efficient as it only indicates if there's a next page available.

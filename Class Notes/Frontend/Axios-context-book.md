@@ -332,7 +332,7 @@ function App() {
 
 ### Use the Custom Hook in a Component
 
-```javas
+```JavaScript
 import React, { useEffect, useState } from "react";
 import { useBookService } from "./BookService";
 
