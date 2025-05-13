@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "63683f2ac17abe87",
+        "id": "a843f8e93f96f165",
         "type": "tabs",
         "children": [
           {
-            "id": "5b3fbccd0412369f",
+            "id": "ef8669176cf419ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practicas/PRA05 Front/userBorrowBookFront-v1.1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "userBorrowBookFront-v1.1"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 293.5
   },
   "right": {
     "id": "dcb4dc8a8b35cc6e",
@@ -160,9 +156,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "ccfabf2d7a1e00bb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -182,56 +188,56 @@
       "callout-manager:Insert Callout": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-import-json:JSON/CSV Importer": false
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b3fbccd0412369f",
+  "active": "b3090ea1dc3d0305",
   "lastOpenFiles": [
-    "Practicas/PRA05 Front/userBorrowBookFront-v1.0.md",
-    "Practicas/PRA05 Front/userBorrowBookFront-v0.9.md",
-    "Practicas/PRA05 Front/userBorrowBookFront-v0.8.md",
-    "Practicas/PRA05 Front/userBorrowBookFront-v0.7.md",
-    "Practicas/PRA05 Front/userBorrowBookFront-v0.6.md",
-    "Practicas/PRA05 Front/userBorrowBookFront-v0.5.md",
-    "Practicas/PRA05 Front/userBorrowBookFront-v0.4.md",
-    "Class Notes/Frontend/Axios-context-book.md",
-    "Class Notes/Frontend/Handlers.md",
-    "Practicas/PRA05 Front/useNavigate.md",
-    "Practicas/PRA03-React.md",
-    "Steps for a new Flutter.md",
-    "Practicas/PRA05 Front/userBorrowBookFront-v0.3.md",
-    "Practicas/PRA05 Front/userBorrowBookFront-v0.2.md",
-    "Practicas/PRA05 Front/userBorrowBookFront-v0.1.md",
-    "Class Notes/Backend/Pagination.md",
-    "Practicas/PRA05 Front/userBookBorrowBack.md",
-    "Practicas/PRA05 Front/userBorrowBookFront-v1.1.md",
-    "Class Notes/Backend/JPA (Java Persistence API) Relationships.md",
-    "Practicas/PRA05 Front/Screenshots/ClassesUML.png",
-    "Practicas/PRA05 Front/Screenshots/material-ui-navigation-drawer-2.png",
-    "Practicas/PRA05 Front/Screenshots/material-ui-navigation-drawer.png",
-    "Practicas/PRA05 Front/Screenshots/book-cover-placeholder.png",
-    "Practicas/PRA05 Front/Screenshots/2025-03-21_13-56.png",
-    "Practicas/PRA05 Front/Screenshots/2025-03-21_13-55_3.png",
-    "Practicas/PRA05 Front/Screenshots/2025-03-21_13-55_2.png",
-    "Practicas/PRA05 Front/Screenshots/2025-03-21_13-55_1.png",
-    "Practicas/PRA05 Front/Screenshots/2025-03-21_13-55.png",
-    "Practicas/PRA05 Front/Screenshots/2025-03-21_13-54.png",
-    "Practicas/PRA05 Back/Predicate at specification JPA Criteria API.md",
-    "Practicas/PRA05 Back/JPA Filter and Specification, Rest Control.md",
-    "Practicas/PRA05 Back/userBorrowBook-filter-test.md",
-    "Practicas/PRA05 Back/test-testFilterBorrows.md",
-    "Practicas/PRA05 Back/lazy-eager.md",
-    "Practicas/PRA05 Back/Screenshots",
-    "Practicas/PRA05 Back",
-    "Practicas/PRA05 Front/API AviationStack.md",
-    "Practicas/PRA05 Front/Screenshots",
-    "Practicas/PRA05 Front",
-    "Practicas/Frontend/PRA05 Front/userBorrowBookFront-v0.1.md",
-    "Practicas/Frontend/PRA05 Front/Screenshots",
-    "Practicas/Frontend/PRA05 Front",
+    "Class Notes/Various/How to close TCP ports via windows command line.md",
+    "PRACTICAS CURSO.md",
+    "Class Notes/Python Notes/Python Tips.md",
+    "Class Notes/Python Notes/Python coding examples.md",
+    "Class Notes/Python Notes",
+    "Excalidraw/Drawing 2025-05-06 10.07.11.excalidraw.md",
+    "resources/images/ScreenshotPID.png",
+    "Excalidraw/Drawing 2025-05-06 10.00.53.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-06 09.53.24.excalidraw.md",
+    "Class Notes/DynamoDB/Installing or updating to the latest version of the AWS CLI - AWS Command Line Interface.md",
+    "Class Notes/DynamoDB/AWS DynamoDB.md",
+    "Class Notes/DynamoDB/Java Annotations for DynamoDB - Amazon DynamoDB.md",
+    "Class Notes/DynamoDB",
+    "resources/images/LSIvsGSI.png",
     "Clippings",
-    "resources/reactComponents",
-    "resources/Weblinks",
-    "Class Notes/Frontend"
+    "Untitled.md",
+    "Class Notes/Various/Git notes and main commands.md",
+    "Practicas/Car Renting/Official docs/Screenshots/2025-04-25_09-15.png",
+    "Practicas/Car Renting/Official docs/Screenshots/2025-04-25_10-40.png",
+    "Practicas/Car Renting/Official docs/Screenshots/2025-04-26_10-38.png",
+    "Practicas/Car Renting/Official docs/Screenshots/2025-04-26_10-38_1.png",
+    "Practicas/Car Renting/Official docs/Screenshots/2025-04-26_10-39.png",
+    "Practicas/Car Renting/Official docs/Screenshots/2025-04-26_10-41.png",
+    "Practicas/Car Renting/Official docs/Screenshots/2025-04-26_10-42.png",
+    "Practicas/Car Renting/Official docs/Screenshots/IMAGE-001176.png",
+    "Practicas/Car Renting/Official docs/Screenshots",
+    "Practicas/Car Renting/Official docs/3-Hilla-rentingCar-v0.md",
+    "Practicas/Car Renting/Official docs/2-SpringBoot-Vaadin.md",
+    "Practicas/Car Renting/Official docs/1-AWS-dynamoDB.md",
+    "Practicas/Car Renting/Official docs/Core Concepts/hilla-interface.md",
+    "Practicas/Car Renting/Official docs/Core Concepts/async.md",
+    "Practicas/Car Renting/Official docs/Core Concepts/3-policies-interacting-dynamodb-2.md",
+    "Practicas/Car Renting/Official docs/Core Concepts/3-policies-interacting-dynamodb-1.md",
+    "Practicas/Car Renting/Official docs/Core Concepts",
+    "Practicas/Car Renting/Official docs",
+    "Practicas/Car Renting/Car renting - FullStack Hilla project.md",
+    "Practicas/Car Renting/Car Renting Hilla Scheme.md",
+    "Class Notes/Databases/SWOT between NoSQL and SQL.md",
+    "Class Notes/Databases",
+    "SWOT between NoSQL and SQL 1.md",
+    "Practicas/Car Renting",
+    "Exercises",
+    "Excalidraw/Drawing 2025-04-24 10.09.56.excalidraw.md",
+    "Excalidraw",
+    "Class Notes/Backend/Pagination.md"
   ]
 }
