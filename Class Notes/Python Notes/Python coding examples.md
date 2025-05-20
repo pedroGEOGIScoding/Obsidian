@@ -14,3 +14,46 @@ print(f"The consecutive sum: {x} = {i}")
 ```
 `Output: Limit:`<font color="#ff0000"> **18**</font> `The consecutive sum: 1 + 2 + 3 + 4 + 5 + 6 = 21`
 
+Using string operations together with a loop we can write a program which draws a pyramid:
+
+```python
+n = 10 # number of layers in the pyramid
+row = "*"
+
+while n > 0:
+    print(" " * n + row)
+    row += "**"
+    n -= 1
+```
+This prints out the following:
+
+```x
+          *
+         ***
+        *****
+       *******
+      *********
+     ***********
+    *************
+   ***************
+  *****************
+ *******************
+```
+
+The following program loops through all the characters in a string from first to last:
+```python
+input_string = input("Please type in a string: ")
+index = 0
+while index < len(input_string):
+    print(input_string[index])
+    index += 1
+```
+Since the first character in a string has the index 0, the last character has the index _length - 1_.
+![Python String Normal Indexes](../../resources/images/PythonStringNormalIndexes.png)
+
+You can also use negative indexing to access characters counting from the end of the string. The last character in a string is at index -1, the second to last character is at index -2, and so forth.
+
+![Python String Indexes](../../resources/images/PythonIndexes.png)
+If you know the beginning and end indexes of the slice you wish to extract, you can do so with the notation `[a:b]`. This means the slice begins at the index `a` and ends at the last character before index `b` - that is, including the first, but excluding the last.
+
+![Python String subindexes](../../resources/images/PythonSubindexes.png)

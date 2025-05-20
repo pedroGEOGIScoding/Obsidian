@@ -1,3 +1,5 @@
+The Java Persistence API provides Java developers with an object/relational mapping facility for managing relational data in Java applications.
+
 Go to here for official docs:
 [Official docs for Spring Boot JPA queries](https://docs.spring.io/spring-data/jpa/reference/jpa.html)
 ![Sketch of the front and backend of one app architecture](../../resources/images/Architecture.jpg)

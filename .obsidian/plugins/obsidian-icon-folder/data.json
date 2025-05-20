@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiPython",
+      "SiSpring",
+      "SiReact",
       "SiGithub",
-      "LiActivitySquare",
-      "LiAArrowDown"
+      "LiActivitySquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -128,6 +130,24 @@
     "iconColor": "#00c800"
   },
   "Class Notes/Frontend/Axios-context-book.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/REACT useReducer.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Frontend/REACT useNavigate.md": {
+    "iconName": "SiReact",
+    "iconColor": "#00c8fa"
+  },
+  "Class Notes/Backend/Unidirectional & Bidirectional Associations.md": {
+    "iconName": "SiSpring",
+    "iconColor": "#00c800"
+  },
+  "Class Notes/Python Notes/Python coding examples.md": "SiPython",
+  "Class Notes/Python Notes/Python Tips.md": "SiPython",
+  "Class Notes/Frontend/Axios.md": {
     "iconName": "SiReact",
     "iconColor": "#00c8fa"
   }
